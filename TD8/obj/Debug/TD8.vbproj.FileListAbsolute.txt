@@ -1,0 +1,44 @@
+C:\Users\Sandrine Lelièvre\source\repos\TD8\TD8\obj\Debug\TD8.vbprojAssemblyReference.cache
+C:\Users\Sandrine Lelièvre\source\repos\TD8\TD8\obj\Debug\TD8.frmAccueil.resources
+C:\Users\Sandrine Lelièvre\source\repos\TD8\TD8\obj\Debug\TD8.frmAjout.resources
+C:\Users\Sandrine Lelièvre\source\repos\TD8\TD8\obj\Debug\TD8.frmModif.resources
+C:\Users\Sandrine Lelièvre\source\repos\TD8\TD8\obj\Debug\TD8.frmSupp.resources
+C:\Users\Sandrine Lelièvre\source\repos\TD8\TD8\obj\Debug\TD8.Resources.resources
+C:\Users\Sandrine Lelièvre\source\repos\TD8\TD8\obj\Debug\TD8.vbproj.GenerateResource.cache
+C:\Users\Sandrine Lelièvre\source\repos\TD8\TD8\bin\Debug\TD8.exe.config
+C:\Users\Sandrine Lelièvre\source\repos\TD8\TD8\bin\Debug\TD8.exe
+C:\Users\Sandrine Lelièvre\source\repos\TD8\TD8\bin\Debug\TD8.pdb
+C:\Users\Sandrine Lelièvre\source\repos\TD8\TD8\bin\Debug\TD8.xml
+C:\Users\Sandrine Lelièvre\source\repos\TD8\TD8\obj\Debug\TD8.exe
+C:\Users\Sandrine Lelièvre\source\repos\TD8\TD8\obj\Debug\TD8.xml
+C:\Users\Sandrine Lelièvre\source\repos\TD8\TD8\obj\Debug\TD8.pdb
+U:\Semestre 2\IHM\TD8\TD8\TD8\bin\Debug\TD8.exe.config
+U:\Semestre 2\IHM\TD8\TD8\TD8\bin\Debug\TD8.exe
+U:\Semestre 2\IHM\TD8\TD8\TD8\bin\Debug\TD8.pdb
+U:\Semestre 2\IHM\TD8\TD8\TD8\bin\Debug\TD8.xml
+U:\Semestre 2\IHM\TD8\TD8\TD8\obj\Debug\TD8.vbprojAssemblyReference.cache
+U:\Semestre 2\IHM\TD8\TD8\TD8\obj\Debug\TD8.frmAccueil.resources
+U:\Semestre 2\IHM\TD8\TD8\TD8\obj\Debug\TD8.frmAjout.resources
+U:\Semestre 2\IHM\TD8\TD8\TD8\obj\Debug\TD8.frmModif.resources
+U:\Semestre 2\IHM\TD8\TD8\TD8\obj\Debug\TD8.frmSupp.resources
+U:\Semestre 2\IHM\TD8\TD8\TD8\obj\Debug\TD8.Resources.resources
+U:\Semestre 2\IHM\TD8\TD8\TD8\obj\Debug\TD8.vbproj.GenerateResource.cache
+U:\Semestre 2\IHM\TD8\TD8\TD8\obj\Debug\TD8.vbproj.CoreCompileInputs.cache
+U:\Semestre 2\IHM\TD8\TD8\TD8\obj\Debug\TD8.exe
+U:\Semestre 2\IHM\TD8\TD8\TD8\obj\Debug\TD8.xml
+U:\Semestre 2\IHM\TD8\TD8\TD8\obj\Debug\TD8.pdb
+U:\Année 1\Semestre 2\IHM\TD8\TD8\TD8\bin\Debug\TD8.exe.config
+U:\Année 1\Semestre 2\IHM\TD8\TD8\TD8\bin\Debug\TD8.exe
+U:\Année 1\Semestre 2\IHM\TD8\TD8\TD8\bin\Debug\TD8.pdb
+U:\Année 1\Semestre 2\IHM\TD8\TD8\TD8\bin\Debug\TD8.xml
+U:\Année 1\Semestre 2\IHM\TD8\TD8\TD8\obj\Debug\TD8.vbprojAssemblyReference.cache
+U:\Année 1\Semestre 2\IHM\TD8\TD8\TD8\obj\Debug\TD8.frmAccueil.resources
+U:\Année 1\Semestre 2\IHM\TD8\TD8\TD8\obj\Debug\TD8.frmAjout.resources
+U:\Année 1\Semestre 2\IHM\TD8\TD8\TD8\obj\Debug\TD8.frmModif.resources
+U:\Année 1\Semestre 2\IHM\TD8\TD8\TD8\obj\Debug\TD8.frmSupp.resources
+U:\Année 1\Semestre 2\IHM\TD8\TD8\TD8\obj\Debug\TD8.Resources.resources
+U:\Année 1\Semestre 2\IHM\TD8\TD8\TD8\obj\Debug\TD8.vbproj.GenerateResource.cache
+U:\Année 1\Semestre 2\IHM\TD8\TD8\TD8\obj\Debug\TD8.vbproj.CoreCompileInputs.cache
+U:\Année 1\Semestre 2\IHM\TD8\TD8\TD8\obj\Debug\TD8.exe
+U:\Année 1\Semestre 2\IHM\TD8\TD8\TD8\obj\Debug\TD8.xml
+U:\Année 1\Semestre 2\IHM\TD8\TD8\TD8\obj\Debug\TD8.pdb
